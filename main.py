@@ -1,4 +1,4 @@
-print("Hello") # TODO: a random todo
+print("Hello")
 
 print(3+3)
 prin
