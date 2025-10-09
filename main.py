@@ -28,3 +28,4 @@ df['date'] = pd.to_datetime(df['time'])
 df['t_avg'] = (df['temperature_2m_max'] + df['temperature_2m_min']) / 2
 
 print(df)
+
