@@ -6,6 +6,7 @@ import pandas as pd
 import requests
 from datetime import datetime
 
+
 latitude = 40.71   # New York City
 longitude = -74.01
 start_date = "2024-01-01"
