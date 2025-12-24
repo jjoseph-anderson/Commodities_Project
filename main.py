@@ -7,3 +7,4 @@ import sys, time, math
 sys.path.append('..')
 
 params = Parameters()
+params.fromFile("Input/ore.xml")
