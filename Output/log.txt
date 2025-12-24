@@ -1,0 +1,8 @@
+NOTICE   [2025-Dec-24 15:09:20.959253]    (OREAnalytics\orea\app\parameters.cpp:133) : Parameters:
+NOTICE   [2025-Dec-24 15:09:20.962252]        (OREAnalytics\orea\app\oreapp.cpp:645) : load OREAppInputParameters called
+WARNING  [2025-Dec-24 15:09:20.962252]        (OREAnalytics\orea\app\oreapp.cpp:666) : Calendar adjustments not found, using defaults
+WARNING  [2025-Dec-24 15:09:20.962252]        (OREAnalytics\orea\app\oreapp.cpp:676) : Currency configurations not found, using defaults
+NOTICE   [2025-Dec-24 15:09:20.963252]        (OREAnalytics\orea\app\oreapp.cpp:744) : Observation Mode is None
+WARNING  [2025-Dec-24 15:09:20.963252]        (OREAnalytics\orea\app\oreapp.cpp:777) : Reference data not found
+WARNING  [2025-Dec-24 15:09:20.963252]        (OREAnalytics\orea\app\oreapp.cpp:786) : Script library not loaded
+NOTICE   [2025-Dec-24 15:09:20.963252]        (OREAnalytics\orea\app\oreapp.cpp:791) : Loading conventions from file: "Input\\conventions.xml"
